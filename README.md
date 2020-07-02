@@ -1,4 +1,4 @@
-# SPARK_AR_Disco_Duotone
+# SPARK AR Disco Duotone
 SPARK AR Disco Sound Effect
 
 Reacts to audio and changes color accordingly.
